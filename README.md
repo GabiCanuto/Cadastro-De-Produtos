@@ -1,5 +1,4 @@
-# Cadastro de Produtos - Sistema Spider-Man
-
+# Cadastro de Produtos - 
 Sistema completo para cadastro, consulta, edição e exclusão de produtos, com design moderno inspirado no Homem-Aranha, utilizando PHP, MySQL e PDO.
 
 ---
